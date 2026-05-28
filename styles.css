@@ -1,0 +1,72 @@
+body {
+  background-color : #0a0f1d;
+  color :#cdfeff;
+  font-family: 'Courier New', Courier, monospace;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: 0 auto;
+  width: 100vw;
+  min-height: calc(100vh - 100px);
+
+}
+
+header {
+  text-align: center;
+}
+
+header img {
+    width: 180px;                    /* Taille de l'image */
+    height: auto;
+    border: 3px solid #64b5f6;       /* Jolie bordure bleue comme sur l'image */
+    border-radius: 8px;              /* Angles légèrement arrondis */
+    padding: 10px;                   /* Espace blanc entre le caillou et la bordure */
+    background-color: #ffffff;       /* Fond blanc derrière le caillou */
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+hr {
+    width: 80%;
+    border: none;
+    border-top: 3px solid #0a1f33;   /* Ligne sombre épaisse */
+    margin: 30px auto;
+}
+
+section {
+    width: 60%;
+    margin: 0 auto;                  /* Centre les blocs sur la page */
+    text-align: center;              /* Centre les titres H2 */
+    margin-bottom: 40px;
+}
+h2 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+}
+ul {
+  list-style-position: inside;
+  padding:0;
+}
+
+li{
+  font-size :1.1rem;
+  margin-bottom: 8px;
+}
+
+footer{
+  text-align: center;
+  margin-top:40px;
+  font-size: 0.9rem;
+  opacity:0.8;
+}
+.card {
+    background-color: rgba(13, 22, 43, 0.75);
+    border: 1px solid rgba(0, 240, 255, 0.2);
+    border-top: 4px solid #00f0ff;
+    padding: 25px;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 240, 255, 0.1);
+}
