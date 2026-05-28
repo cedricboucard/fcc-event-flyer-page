@@ -34,3 +34,5 @@ Le site présente le programme et les intervenants à travers trois grands blocs
 ---
 ## 🚀 Live Demo Link
 https://cedricboucard.github.io/fcc-event-flyer-page/
+
+![screenshot](image.png)
